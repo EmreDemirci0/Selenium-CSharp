@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HepsiburadaVeri", "HepsiburadaVeri\HepsiburadaVeri.csproj", "{00A89582-66C5-42D7-B39D-9FC9F8F5ED3F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{629F1145-1A1D-4A99-88A4-124D4F6E97A4}"
+	ProjectSection(SolutionItems) = preProject
+		CategoryItem.json = CategoryItem.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00A89582-66C5-42D7-B39D-9FC9F8F5ED3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A89582-66C5-42D7-B39D-9FC9F8F5ED3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A89582-66C5-42D7-B39D-9FC9F8F5ED3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A89582-66C5-42D7-B39D-9FC9F8F5ED3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7755C42D-5F4D-428C-944A-5EF288AA0ADE}
+	EndGlobalSection
+EndGlobal
